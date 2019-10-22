@@ -1,0 +1,14 @@
+.card_text-center {
+    text-align: center;
+    font-size: 30px;
+}
+
+.card_icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card_padding{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
